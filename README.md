@@ -1,5 +1,6 @@
 # Intro PINNS-and-IPINNS
-1 - Will go over general notes on physics informed neural networks and some basic easy to understand code examples\\
+1 - Will go over general notes on physics informed neural networks and some basic easy to understand code examples
+
 2 - To find video tutorial I used with accompanying github code, click here: **https://github.com/stephenbrutch/PINNS-and-IPINNS/blob/main/1)%20Ben%20Mosseley%20Github%20Source.pdf**
 
 
