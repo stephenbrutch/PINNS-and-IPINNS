@@ -1,4 +1,9 @@
 # Sample tutorial Code to better understand how to do PINNS and IPINNS
 
 * This example covers PINNS/IPINNS for a damped harmonic oscillator. See nbviewer url below as uploading the.ipynb file had issues with the format of the display.
-https://nbviewer.org/github/stephenbrutch/PINNS-and-IPINNS/blob/main/pinn_pytorch.ipynb#
+https://nbviewer.org/github/stephenbrutch/PINNS-and-IPINNS/blob/main/pinn_pytorch.ipynb
+
+# Sample Tutorial: Understanding PINNS and IPINNS
+
+This example covers Physics-Informed Neural Networks (PINNS) and Inverse Physics-Informed Neural Networks (IPINNS) for a damped harmonic oscillator. Due to formatting issues, the tutorial is hosted on nbviewer. Click [here](https://nbviewer.org/github/stephenbrutch/PINNS-and-IPINNS/blob/main/pinn_pytorch.ipynb) to view the tutorial.
+
