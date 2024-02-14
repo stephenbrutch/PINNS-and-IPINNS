@@ -1,0 +1,4 @@
+# Sample tutorial Code to better understand how to do PINNS and IPINNS
+
+* This example covers PINNS/IPINNS for a damped harmonic oscillator. See nbviewer url below as uploading the.ipynb file had issues with the format of the display.
+https://nbviewer.org/github/stephenbrutch/PINNS-and-IPINNS/blob/main/pinn_pytorch.ipynb#
